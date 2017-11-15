@@ -8,7 +8,7 @@ document.getElementById("bl2").style.marginTop = "20px";
 document.getElementById("bl3").style.marginTop = "50px";
 document.getElementById("bl4").style.marginTop = "0px";
 
-document.getElementById("bl1").style.padding = "20px"
-document.getElementById("bl2").style.paddingLeft = "20px"
-document.getElementById("bl3").style.paddingLeft = "40px"
-document.getElementById("bl4").style.paddingRight = "40px"
+document.getElementById("bl1").style.padding = "20px";
+document.getElementById("bl2").style.paddingLeft = "20px";
+document.getElementById("bl3").style.paddingLeft = "40px";
+document.getElementById("bl4").style.paddingRight = "40px";
